@@ -1,5 +1,5 @@
 lista1 = [1, 2, 3, 4]
-# print(*lista)       #Extrae los datos como elemtos
+# print(*lista)       #Extrae los datos como elementos
 
 lista2 = [5, 6]
 
